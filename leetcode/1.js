@@ -12,4 +12,3 @@ function test(nums, target) {
         }
     }
 };
-console.log(test([2, 7, 11, 15], 9));
